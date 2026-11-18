@@ -7,7 +7,7 @@ Learn the Upperblue REST API with two small Python programs. **Seismic day** ove
 | [![Map of Iceland with earthquake circles and volcanic system triangles](images/seismic-day.png)](images/seismic-day.png) | [![Three days of predicted high and low tides in Reykjavík](images/tide-table.png)](images/tide-table.png) |
 | Page through one day of earthquakes and find the volcanic system closest to the largest event. | Resolve Reykjavík in the Coast Guard tide-site catalogue and plot three days of predicted highs and lows. |
 
-[Upperblue API guide](https://upperblue.com/en/api) · [Shared request code](api.py) · [Data credits](#data-and-licences)
+[Upperblue API guide](https://www.upperblue.com/en/api) · [Shared request code](api.py) · [Data credits](#data-and-licences)
 
 ## Run both demos
 
@@ -27,7 +27,7 @@ Open **seismic-day.png** and **tide-table.png** in the repository directory. Aft
 
 ## Use your API key
 
-1. Get a **REST API key** through the [Upperblue API page](https://upperblue.com/en/api).
+1. Get a **REST API key** through the [Upperblue API page](https://www.upperblue.com/en/api).
 2. Copy the template with `cp .env.example .env` (PowerShell: `Copy-Item .env.example .env`). Open `.env` in your editor and set `UPPERBLUE_API_KEY` to your key. Git ignores this file. An existing environment variable takes precedence, so CI or a hosted application can supply the same setting through its secret store.
 3. Pass a UTC date to request data from Upperblue. Choose a date within a published tide-table edition for the tide demo.
 

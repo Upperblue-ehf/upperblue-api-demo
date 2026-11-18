@@ -1,0 +1,18 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Generated demo output
+/seismic-day.png
+/tide-table.png
+.DS_Store
+/my-seismic-map.png
+/my-tide-table.png

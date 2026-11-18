@@ -1,0 +1,64 @@
+{
+  "day": "2026-11-17",
+  "site": "Reykjavík",
+  "edition": "Sjávarfallatöflur 2026",
+  "datum": "0 íslenskra sjókorta",
+  "retrieved": "2026-11-18",
+  "events": [
+    {
+      "time": "2026-11-17T05:14:00.000Z",
+      "type": "low",
+      "height": 1.6
+    },
+    {
+      "time": "2026-11-17T11:49:00.000Z",
+      "type": "high",
+      "height": 3.1
+    },
+    {
+      "time": "2026-11-17T18:18:00.000Z",
+      "type": "low",
+      "height": 1.5
+    },
+    {
+      "time": "2026-11-18T00:27:00.000Z",
+      "type": "high",
+      "height": 2.8
+    },
+    {
+      "time": "2026-11-18T06:32:00.000Z",
+      "type": "low",
+      "height": 1.7
+    },
+    {
+      "time": "2026-11-18T13:01:00.000Z",
+      "type": "high",
+      "height": 3
+    },
+    {
+      "time": "2026-11-18T19:30:00.000Z",
+      "type": "low",
+      "height": 1.5
+    },
+    {
+      "time": "2026-11-19T01:42:00.000Z",
+      "type": "high",
+      "height": 2.9
+    },
+    {
+      "time": "2026-11-19T07:54:00.000Z",
+      "type": "low",
+      "height": 1.6
+    },
+    {
+      "time": "2026-11-19T14:09:00.000Z",
+      "type": "high",
+      "height": 3.1
+    },
+    {
+      "time": "2026-11-19T20:33:00.000Z",
+      "type": "low",
+      "height": 1.3
+    }
+  ]
+}
